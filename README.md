@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, I'm Mohammad Rendy Firmansyah</h1>
-<h3 align="center">Laravel Web Developer and Frontend Android Developer</h3>
+<h3 align="center">Developer IT</h3>
 
-- 🌱 I’m currently learning Mobile Developer
-
-- 👨‍💻 Check my website profile here [rendy-firmansyah.github.io](rendy-firmansyah.github.io)
+- 🌱 I’m currently focusing on Data(Entry & Analyst), Machine Learning, and Web Programming
 
 - 📫 How to reach me **rendy.firmans28@gmail.com**
 
